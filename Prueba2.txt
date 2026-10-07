@@ -1,0 +1,16 @@
+===================================
+          FACTURA DE COMPRA      
+===================================
+Numero de factura:  633504
+===================================
+Fecha capturada:  2026-10-07
+Hora capturada:  06:26:23.388107400
+===================================
+Audifonos: Cantidad  0 Valor total  0.0
+Mouse: Cantidad  0 Valor total  0.0
+Teclado: Cantidad  1 Valor total  100000.0
+===================================
+TOTAL GENERAL DE LA COMPRA:  $100000.0
+=================================
+GRACIAS POR COMPRAR EN LA TIENDA ELEC CORTES
+==================================
