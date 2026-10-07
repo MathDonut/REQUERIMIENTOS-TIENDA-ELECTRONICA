@@ -1,0 +1,16 @@
+===================================
+          FACTURA DE COMPRA      
+===================================
+Numero de factura:  5562646
+===================================
+Fecha capturada:  2026-10-07
+Hora capturada:  06:28:34.872115500
+===================================
+Audifonos: Cantidad  0 Valor total  0.0
+Mouse: Cantidad  2 Valor total  120000.0
+Teclado: Cantidad  1 Valor total  100000.0
+===================================
+TOTAL GENERAL DE LA COMPRA:  $220000.0
+=================================
+GRACIAS POR COMPRAR EN LA TIENDA ELEC CORTES
+==================================
