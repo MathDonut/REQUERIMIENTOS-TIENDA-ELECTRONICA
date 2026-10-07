@@ -1,0 +1,16 @@
+===================================
+          FACTURA DE COMPRA      
+===================================
+Numero de factura:  5273459
+===================================
+Fecha capturada:  2026-10-07
+Hora capturada:  06:31:52.333805400
+===================================
+Audifonos: Cantidad  1 Valor total  80000.0
+Mouse: Cantidad  1 Valor total  60000.0
+Teclado: Cantidad  1 Valor total  100000.0
+===================================
+TOTAL GENERAL DE LA COMPRA:  $240000.0
+=================================
+GRACIAS POR COMPRAR EN LA TIENDA ELEC CORTES
+==================================
