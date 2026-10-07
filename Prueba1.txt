@@ -1,0 +1,16 @@
+===================================
+          FACTURA DE COMPRA      
+===================================
+Numero de factura:  7956284
+===================================
+Fecha capturada:  2026-10-07
+Hora capturada:  06:20:31.054009300
+===================================
+Audifonos: Cantidad  2 Valor total  160000.0
+Mouse: Cantidad  0 Valor total  0.0
+Teclado: Cantidad  0 Valor total  0.0
+===================================
+TOTAL GENERAL DE LA COMPRA:  $160000.0
+=================================
+GRACIAS POR COMPRAR EN LA TIENDA ELEC CORTES
+==================================
